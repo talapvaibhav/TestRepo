@@ -7,4 +7,10 @@ this: is change2.
 change: to fix bug1.
 
 change : by team mate updated for change request 1 3-way merge with conflict. 
+this is change2.
+
+change to fix bug1.
+
+change for the bug123 to check merging with conflict.
+
 
