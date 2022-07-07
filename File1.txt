@@ -2,7 +2,9 @@ Hey this is my first git tutorial.
 
 This is first change i.e change 1.
 
-this is change2.
+this: is change2.
 
-change to fix bug1.
+change: to fix bug1.
+
+change : by team mate updated for change request 1 3-way merge with conflict. 
 
